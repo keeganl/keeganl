@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I'm currently a grad student at FSU interested in graphics.
+I'm currently a grad student at FSU interested in tools development.
 <!--
 **keeganl/keeganl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
